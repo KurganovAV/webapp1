@@ -1,0 +1,59 @@
+body {
+  font-family:      Cursive;
+  font-size:        medium;
+  background-image: url(002.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: contain;  
+  background-color: white;
+  margin-top:       5%;
+  margin-bottom:    5%;
+  margin-left:      10%;
+  margin-right:     10%;
+  border:           none;
+  padding:          10px 10px 10px 10px;
+}
+a {
+  text-decoration:  none; 
+  font-weight:      600; 
+}
+a:hover {
+  text-decoration:  underline;
+}
+a img {
+  border:           0;
+}
+h2 {
+  font-size:        150%;
+}
+
+td, th {
+  padding:          5px;
+  text-align:       left;
+}
+.copyright {
+  font-size:        75%;
+  font-style:       Brush Script MT;
+}
+.slogan {
+  font-size:        75%;
+  font-style:       Brush Script MT;
+}
+.confirmentry {
+  font-weight:      600; 
+}
+
+
+
+/*** Inputs ***/
+input[type=text] {
+  font-size:        115%;
+  width:            30em;
+}
+input[type=submit] {
+  font-size:        125%;
+}
+select {
+  font-size:        125%;
+}
