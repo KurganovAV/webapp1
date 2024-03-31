@@ -1,8 +1,0 @@
-ImmutableMultiDict([('phrase', 'fnswufn'), ('letters', 'wifnweiu')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36|{'n', 'w', 'u', 'f'}
-ImmutableMultiDict([('phrase', 'deebeel'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36|{'e'}
-ImmutableMultiDict([('phrase', 'дружок пирожок'), ('letters', 'пидорок')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36|{'к', 'п', 'о', 'д', 'р', 'и'}
-ImmutableMultiDict([('phrase', 'порридж'), ('letters', 'кринж')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36|{'и', 'ж', 'р'}
-ImmutableMultiDict([('phrase', 'h9h'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36|set()
-ImmutableMultiDict([('phrase', 'амогус'), ('letters', 'бобус')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96.0|{'о', 'у', 'с'}
-ImmutableMultiDict([('phrase', 'Артём'), ('letters', 'Варя')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96.0|{'р'}
-ImmutableMultiDict([('phrase', 'артём'), ('letters', 'Варя')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96.0|{'а', 'р'}
